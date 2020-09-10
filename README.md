@@ -1,2 +1,2 @@
-# Synchronised-ball-movement
-Using Firebase and Visual Studio Code
+# asynchronousBallMovement
+Boiler plate for ball moving aysnchronously
